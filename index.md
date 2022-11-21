@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'FUNDACION TURISMO DE ALTURA'
 description: null
 image: null
 author: null
